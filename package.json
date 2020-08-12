@@ -1,0 +1,8 @@
+{
+  "name": "tradeMission",
+  "version": "1.0.0",
+  "description": "'test for Vaultoro'",
+  "main": "index.js",
+  "author": "AurianGL",
+  "license": "MIT"
+}
